@@ -1,0 +1,8 @@
+Student: Faderogleztat
+Total score: 586
+Average grade: 97.66666666666667
+Whole-number average: 97
+Leftover points: 4
+Passing grade is 75. Did the student pass? true
+Is the average a perfect 100? false
+Quizzes taken after the next quiz: 7
